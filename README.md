@@ -40,9 +40,9 @@ php artisan serve
 Access the backend at: http://localhost:8000
 
 ### 4. Setup Frontend
-
+```bash
 cd user-role-frontend
 npm install
 npm start
-
+```
 Access the frontend at: http://localhost:3000
