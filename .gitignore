@@ -1,0 +1,14 @@
+# Laravel specific
+/vendor
+/node_modules
+/.phpunit.result.cache
+/public/storage
+/storage/*.key
+/storage/framework/*
+/storage/logs
+
+# React specific
+/build
+/node_modules
+npm-debug.log
+yarn-error.log
