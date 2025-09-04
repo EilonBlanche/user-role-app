@@ -16,21 +16,26 @@ Before running the application, make sure you have installed:
 ```bash
 git clone https://github.com/EilonBlanche/user-role-app.git
 ```
+```bash
 cd user-role-app
-
+```
 ### 2. Create Database
 
-Create a MySQL database named:
+Create a MySQL database:
 
+```bash
 CREATE DATABASE user_role_db;
+```
 
 ### 3. Setup Backend
 
+```bash
 cd user-role-backend
 composer install
 php artisan migrate:refresh
 php artisan db:seed
 php artisan serve
+```
 
 Access the backend at: http://localhost:8000
 
