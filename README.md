@@ -13,7 +13,9 @@ Before running the application, make sure you have installed:
 
 ### 1. Clone the Repository
 
+```bash
 git clone https://github.com/EilonBlanche/user-role-app.git
+```
 cd user-role-app
 
 ### 2. Create Database
