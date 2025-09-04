@@ -32,7 +32,7 @@ CREATE DATABASE user_role_db;
 ```bash
 cd user-role-backend
 composer install
-php artisan migrate:refresh
+php artisan migrate
 php artisan db:seed
 php artisan serve
 ```
