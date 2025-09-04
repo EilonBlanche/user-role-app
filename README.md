@@ -1,7 +1,5 @@
 # User Role App
 
-A simple web application to manage user roles.
-
 ## Prerequisites
 
 Before running the application, make sure you have installed:
